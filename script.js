@@ -31,7 +31,7 @@ const febHolidays = [
     "Hé mon amour",
     "Je t'aime jusqu'à mon dernier souffle",
     "et merci de m'avoir donné ces surnoms mignons🤣❤️",
-    "But anyways,Happy valentine's day my sweet little girlfriend(wife🤭",
+    "But anyways,love you my sweet little girlfriend(wife🤭",
     "You're the love of my life,",
     "I Love You So much❤️"
   ];
